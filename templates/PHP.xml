@@ -1,0 +1,8 @@
+<templateSet group="PHP">
+  <template name="prepr" value="echo '&lt;pre&gt;', print_r($END$, true), '&lt;/pre&gt;';" description="&lt;pre&gt; print" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+</templateSet>
