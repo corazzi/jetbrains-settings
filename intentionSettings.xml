@@ -1,6 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="PHP/Convert array to traditional syntax" />
-    <ignoreAction name="JavaScript/Conditional Operator/Flip If" />
-  </component>
-</application>
