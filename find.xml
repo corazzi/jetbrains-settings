@@ -18,6 +18,7 @@
     <mask>*blade.php</mask>
     <mask>*.scss</mask>
     <mask>*.twig</mask>
+    <mask>*.blade.php</mask>
     <mask>*.php</mask>
   </component>
 </application>
