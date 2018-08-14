@@ -1,4 +1,7 @@
 <code_scheme name="Default (1)" version="173">
+  <CsvCodeStyleSettings>
+    <option name="LEADING_WHITE_SPACES" value="true" />
+  </CsvCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
