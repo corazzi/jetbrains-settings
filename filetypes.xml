@@ -6,6 +6,7 @@
       <mapping pattern=".test" type="PLAIN_TEXT" />
       <mapping pattern=".functions" type="PLAIN_TEXT" />
       <mapping ext="gitmessage" type="PLAIN_TEXT" />
+      <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="aliases" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
