@@ -1,17 +1,20 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".functions" type="PLAIN_TEXT" />
       <mapping pattern="mailchimp-credentials" type="PLAIN_TEXT" />
       <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="publish-mailchimp-details" type="PLAIN_TEXT" />
       <mapping pattern=".test" type="PLAIN_TEXT" />
       <mapping pattern="./publish-mailchimp-details" type="PLAIN_TEXT" />
-      <mapping pattern=".functions" type="PLAIN_TEXT" />
-      <mapping ext="gitmessage" type="PLAIN_TEXT" />
-      <mapping ext="gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="paw" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="aliases" type="PLAIN_TEXT" />
+      <mapping ext="paw" type="PLAIN_TEXT" />
+      <mapping ext="gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="gitmessage" type="PLAIN_TEXT" />
+      <mapping pattern=".*css.liquid" type="Twig" />
+      <mapping pattern="*.js.liquid" type="Twig" />
+      <mapping ext="liquid" type="Twig" />
     </extensionMap>
   </component>
 </application>
