@@ -12,8 +12,6 @@
       <mapping ext="aliases" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="paw" type="PLAIN_TEXT" />
-      <removed_mapping ext="rb" type="PLAIN_TEXT" />
-      <removed_mapping ext="cgi" type="PLAIN_TEXT" />
       <mapping pattern=".*css.liquid" type="Twig" />
       <mapping pattern="*.js.liquid" type="Twig" />
       <mapping ext="liquid" type="Twig" />
