@@ -4,6 +4,7 @@
       <mapping pattern=".test" type="PLAIN_TEXT" />
       <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
       <mapping pattern="mailchimp-credentials" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
       <mapping pattern="./publish-mailchimp-details" type="PLAIN_TEXT" />
       <mapping pattern=".functions" type="PLAIN_TEXT" />
       <mapping pattern="publish-mailchimp-details" type="PLAIN_TEXT" />
