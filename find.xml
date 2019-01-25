@@ -15,8 +15,8 @@
     <mask>*.js</mask>
     <mask>composer.json</mask>
     <mask>*.css</mask>
-    <mask>*.scss</mask>
     <mask>*.blade.php</mask>
     <mask>*.php</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
