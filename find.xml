@@ -12,12 +12,12 @@
     <mask>*.mxml</mask>
     <mask>*blade.php</mask>
     <mask>*.twig</mask>
-    <mask>*.js</mask>
     <mask>composer.json</mask>
     <mask>*.css</mask>
     <mask>*.blade.php</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
+    <mask>*.js</mask>
   </component>
 </application>
