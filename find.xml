@@ -5,7 +5,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,10 +17,11 @@
     <mask>composer.json</mask>
     <mask>*.css</mask>
     <mask>*.vue</mask>
-    <mask>*.js</mask>
     <mask>*.blade.php</mask>
     <mask>*.Vue</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
+    <mask>*.liquid</mask>
   </component>
 </application>
