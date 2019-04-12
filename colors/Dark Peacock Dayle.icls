@@ -15,7 +15,7 @@
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="5f7210" />
-    <option name="ANNOTATIONS_COLOR" value="8b999f" />
+    <option name="ANNOTATIONS_COLOR" value="ffffff" />
     <option name="CARET_COLOR" value="60999d" />
     <option name="CARET_ROW_COLOR" value="c1418" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
@@ -49,6 +49,11 @@
     <option name="SELECTION_BACKGROUND" value="db3f25" />
     <option name="SELECTION_FOREGROUND" value="edf8ff" />
     <option name="TEARLINE_COLOR" value="304e52" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="131b1f" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="131b1f" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="131b1f" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="131b1f" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="131b1f" />
     <option name="WHITESPACES" value="505050" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
   </colors>
