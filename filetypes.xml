@@ -1,7 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="AncillaryLicenceFactory.php" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PHP" />
+      <removed_mapping pattern="AncillaryLicenceFactory.php" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
