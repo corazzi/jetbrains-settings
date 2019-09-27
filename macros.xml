@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="PHPCS + Save">
+      <action id="Tool_External Tools_PHP Code Sniffer" />
+      <action id="SaveAll" />
+    </macro>
+  </component>
+</application>
