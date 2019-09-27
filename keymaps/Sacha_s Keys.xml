@@ -70,6 +70,9 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="Tool_External Tools_PHP Code Sniffer">
+    <keyboard-shortcut first-keystroke="shift meta y" />
+  </action>
   <action id="Uml.ShowDiff" />
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
