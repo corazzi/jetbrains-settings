@@ -4,6 +4,7 @@
       <mapping pattern="test" type="PHP" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".phpcs.dist" type="PLAIN_TEXT" />
+      <mapping ext="liquid" type="PLAIN_TEXT" />
       <mapping ext="paw" type="PLAIN_TEXT" />
       <removed_mapping pattern="AncillaryLicenceFactory.php" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
