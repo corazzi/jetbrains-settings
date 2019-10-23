@@ -2,8 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="test" type="PHP" />
-      <mapping pattern=".phpcs.dist" type="PLAIN_TEXT" />
+      <mapping pattern="build/travis-ci-apache" type="PLAIN_TEXT" />
+      <mapping pattern="travis-ci-apache" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".phpcs.dist" type="PLAIN_TEXT" />
       <mapping ext="paw" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
       <removed_mapping pattern="AncillaryLicenceFactory.php" approved="true" type="PLAIN_TEXT" />
