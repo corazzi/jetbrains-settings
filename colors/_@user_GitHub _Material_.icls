@@ -4,7 +4,7 @@
     <property name="created">2019-09-24T10:28:53</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-10-21T09:35:43</property>
+    <property name="modified">2019-11-06T10:49:26</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -19,9 +19,6 @@
     <option name="CARET_ROW_COLOR" value="eeeeee" />
     <option name="DELETED_LINES_COLOR" value="d73a49" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="32f62" />
-    <option name="FILESTATUS_addedOutside" value="22863a" />
-    <option name="FILESTATUS_changelistConflict" value="d73a49" />
-    <option name="FILESTATUS_modifiedOutside" value="5cc5" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="INDENT_GUIDE" value="dddddd" />
     <option name="LINE_NUMBERS_COLOR" value="aaaaaa" />
