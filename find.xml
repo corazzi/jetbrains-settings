@@ -16,5 +16,6 @@
     <mask>*.js</mask>
     <mask>*.blade.php</mask>
     <mask>*.scss</mask>
+    <mask>*.liquid</mask>
   </component>
 </application>
