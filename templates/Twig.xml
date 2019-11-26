@@ -1,0 +1,14 @@
+<templateSet group="Twig">
+  <template name="schema" value="{% schema %}&#10;$VAR$&#10;{% endschema %}" description="Insert Liquid Schema" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="section" value="{%- section '$VAR$' -%}" description="Liquid Section" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+</templateSet>
