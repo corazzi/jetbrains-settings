@@ -45,19 +45,9 @@
       <path value="VCS Log Changes Browser Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="&lt;anonymous-group-5&gt;" is_group="true" action_type="-1" position="5">
-      <path value="root" />
-      <path value="VCS Operations Popup" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="XDebugger.CopyWatch" is_action="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Debug Watches Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ChangesView.Diff" is_action="true" action_type="-1" position="4">
-      <path value="root" />
-      <path value="Local Changes Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="-1" position="4">
@@ -73,11 +63,6 @@
     <group value="XDebugger.MoveWatchDown" is_action="true" action_type="-1" position="3">
       <path value="root" />
       <path value="Debug Watches Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ChangesView.Revert" is_action="true" action_type="-1" position="3">
-      <path value="root" />
-      <path value="Local Changes Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ChangesView.GroupBy" is_group="true" action_type="-1" position="3">
@@ -100,11 +85,6 @@
       <path value="Debug Watches Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CheckinProject" is_action="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Local Changes Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="-1" position="2">
       <path value="root" />
       <path value="VCS Log Changes Browser Toolbar" />
@@ -118,16 +98,6 @@
     <group value="XDebugger.RemoveWatch" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Debug Watches Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Perforce.Force.Refresh" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Local Changes Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Vcs.Log.ShowOnlyAffectedChanges" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="VCS Log Changes Browser Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="-1" position="1">
@@ -149,11 +119,6 @@
     <group value="XDebugger.NewWatch" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Debug Watches Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ChangesView.Refresh" is_action="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Local Changes Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Vcs.RepositoryChangesBrowserToolbar" is_group="true" action_type="-1" position="0">

@@ -26,7 +26,4 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Code" />
   </component>
-  <component name="VcsApplicationSettings">
-    <option name="SHOW_LST_GUTTER_MARKERS" value="false" />
-  </component>
 </application>
