@@ -15,7 +15,7 @@
     <mask>*.php</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
-    <mask>*.scss</mask>
     <mask>*.liquid</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
