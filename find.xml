@@ -11,11 +11,11 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.blade.php</mask>
-    <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.liquid</mask>
     <mask>*.vue</mask>
     <mask>*.scss</mask>
+    <mask>*.html</mask>
   </component>
 </application>
