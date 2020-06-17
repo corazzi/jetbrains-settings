@@ -10,6 +10,7 @@
       <mapping ext="paw" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
       <removed_mapping pattern="AncillaryLicenceFactory.php" approved="true" type="PLAIN_TEXT" />
