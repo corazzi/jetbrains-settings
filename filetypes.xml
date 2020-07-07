@@ -1,13 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="test" type="PHP" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="build/travis-ci-apache" type="PLAIN_TEXT" />
-      <mapping pattern=".phpcs.dist" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="travis-ci-apache" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".phpcs.dist" type="PLAIN_TEXT" />
       <mapping ext="paw" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
