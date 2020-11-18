@@ -41,6 +41,9 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="Macro.Format &amp; Save">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
@@ -50,6 +53,9 @@
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="shift meta alt s" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
