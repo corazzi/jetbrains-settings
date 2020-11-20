@@ -14,9 +14,9 @@
     <mask>*.css</mask>
     <mask>*.blade.php</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>*.antlers.html</mask>
     <mask>*.liquid</mask>
     <mask>*.scss</mask>
+    <mask>*.js</mask>
   </component>
 </application>
