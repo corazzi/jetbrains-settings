@@ -19,8 +19,8 @@
     <mask>*.antlers.html</mask>
     <mask>*.scss</mask>
     <mask>care-*.svg</mask>
-    <mask>*.js</mask>
     <mask>*.liquid</mask>
     <mask>*.svg</mask>
+    <mask>*.js</mask>
   </component>
 </application>
