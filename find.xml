@@ -11,11 +11,9 @@
     <mask>*.mxml</mask>
     <mask>*.html</mask>
     <mask>*.blade.php</mask>
-    <mask>*.scss</mask>
     <mask>care-*.svg</mask>
     <mask>*.svg</mask>
     <mask>*js</mask>
-    <mask>*.antlers.html</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
@@ -23,5 +21,7 @@
     <mask>*.liquid</mask>
     <mask>*.md</mask>
     <mask>*.yaml</mask>
+    <mask>*.antlers.html</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
