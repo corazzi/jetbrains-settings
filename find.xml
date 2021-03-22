@@ -20,8 +20,8 @@
     <mask>*.liquid</mask>
     <mask>*.md</mask>
     <mask>*.yaml</mask>
-    <mask>*.antlers.html</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.antlers.html</mask>
   </component>
 </application>
