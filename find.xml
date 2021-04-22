@@ -9,7 +9,6 @@
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
-    <mask>*.html</mask>
     <mask>*.blade.php</mask>
     <mask>care-*.svg</mask>
     <mask>*.svg</mask>
@@ -24,5 +23,6 @@
     <mask>*.liquid</mask>
     <mask>*.js</mask>
     <mask>*blade.php</mask>
+    <mask>*.html</mask>
   </component>
 </application>
