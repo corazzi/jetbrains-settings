@@ -19,11 +19,11 @@
     <mask>*.antlers.html</mask>
     <mask>*.vue</mask>
     <mask>*.scss</mask>
-    <mask>*.js</mask>
     <mask>*blade.php</mask>
     <mask>*.html</mask>
     <mask>*.liquid</mask>
     <mask>i10n-*.liquid</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
