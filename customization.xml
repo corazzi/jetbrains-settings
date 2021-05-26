@@ -1,38 +1,8 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="VcsGroups" is_group="true" action_type="-1" position="9">
-      <path value="root" />
-      <path value="Main menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="LocalHistory.PutLabel" is_action="true" action_type="-1" position="8">
-      <path value="root" />
-      <path value="VCS Operations Popup" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ToolbarRunGroup" is_group="true" action_type="-1" position="7">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="SearchEverywhere" is_action="true" action_type="-1" position="7">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="LocalHistory.ShowHistory" is_action="true" action_type="-1" position="7">
-      <path value="root" />
-      <path value="VCS Operations Popup" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RunAnything" is_action="true" action_type="-1" position="6">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="6">
-      <path value="root" />
-      <path value="VCS Operations Popup" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="XDebugger.SwitchWatchesInVariables" is_action="true" action_type="-1" position="5">
@@ -40,19 +10,9 @@
       <path value="Debug Watches Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.Log.LayoutConfiguration" is_group="true" action_type="-1" position="5">
-      <path value="root" />
-      <path value="VCS Log Changes Browser Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="XDebugger.CopyWatch" is_action="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Debug Watches Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="4">
-      <path value="root" />
-      <path value="VCS Log Changes Browser Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="-1" position="4">
@@ -75,7 +35,7 @@
       <path value="VCS Operations Popup" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="NavBarVcsGroup" is_group="true" action_type="-1" position="2">
+    <group seperator="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -103,17 +63,6 @@
     <group seperator="true" action_type="-1" position="1">
       <path value="root" />
       <path value="VCS Operations Popup" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="VcsToobarActions" is_group="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ToolbarRunGroup" is_group="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="XDebugger.NewWatch" is_action="true" action_type="-1" position="0">
