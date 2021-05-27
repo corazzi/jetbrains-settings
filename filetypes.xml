@@ -2,9 +2,9 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="EnableNewContentBulletins" type="AUTO_DETECTED" />
-      <removed_mapping ext="csv" type="CSV" />
-      <mapping ext="csv" type="CSV file" />
-      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <mapping ext="csv" type="CSV" />
+      <removed_mapping ext="csv" type="CSV file" />
+      <mapping ext="tsv" type="CSV/TSV" />
       <mapping pattern="test" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="travis-ci-apache" type="PLAIN_TEXT" />
@@ -19,7 +19,7 @@
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="paw" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="TSV" />
+      <removed_mapping ext="tsv" type="TSV" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="liquid" approved="true" type="PLAIN_TEXT" />
