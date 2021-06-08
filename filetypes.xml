@@ -7,11 +7,12 @@
       <mapping pattern="test" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="travis-ci-apache" type="PLAIN_TEXT" />
-      <mapping pattern="category-navigation-templates" type="PLAIN_TEXT" />
       <mapping pattern=".phpcs.dist" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="build/travis-ci-apache" type="PLAIN_TEXT" />
+      <mapping pattern=".gitinclude" type="PLAIN_TEXT" />
+      <mapping pattern="category-navigation-templates" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
