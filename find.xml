@@ -24,8 +24,8 @@
     <mask>i10n-*.liquid</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
-    <mask>*.scss</mask>
     <mask>*.blade.php</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
