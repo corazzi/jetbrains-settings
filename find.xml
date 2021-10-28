@@ -5,7 +5,6 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.antlers.html" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -22,11 +21,11 @@
     <mask>*.html</mask>
     <mask>i10n-*.liquid</mask>
     <mask>*.vue</mask>
-    <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.blade.php</mask>
     <mask>*.liquid</mask>
     <mask>*.antlers.html</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
