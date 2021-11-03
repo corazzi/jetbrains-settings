@@ -5,6 +5,7 @@
       <mapping pattern="retailer-sign-in" type="AUTO_DETECTED" />
       <removed_mapping ext="csv" type="CSV" />
       <mapping ext="csv" type="CSV file" />
+      <mapping pattern="*.antlers.html" type="HTML" />
       <mapping pattern="test" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="travis-ci-apache" type="PLAIN_TEXT" />
