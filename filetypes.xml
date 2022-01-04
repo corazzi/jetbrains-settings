@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="EnableNewContentBulletins" type="AUTO_DETECTED" />
       <mapping pattern="retailer-sign-in" type="AUTO_DETECTED" />
-      <mapping ext="csv" type="CSV" />
-      <removed_mapping ext="csv" type="CSV file" />
+      <removed_mapping ext="csv" type="CSV" />
+      <mapping ext="csv" type="CSV file" />
       <mapping pattern="test" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="travis-ci-apache" type="PLAIN_TEXT" />
