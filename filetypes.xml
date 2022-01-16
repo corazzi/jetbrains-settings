@@ -13,6 +13,7 @@
       <mapping pattern="build/travis-ci-apache" type="PLAIN_TEXT" />
       <mapping pattern=".gitinclude" type="PLAIN_TEXT" />
       <mapping pattern="category-navigation-templates" type="PLAIN_TEXT" />
+      <mapping pattern=".shopifyignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
