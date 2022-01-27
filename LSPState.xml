@@ -1,5 +1,20 @@
 <application>
   <component name="LSPState">
     <option name="logServersOutput" value="true" />
+    <option name="alwaysSendRequests" value="true" />
+    <option name="extToServ">
+      <map>
+        <entry key="liquid">
+          <value>
+            <array>
+              <option value="exe" />
+              <option value="liquid" />
+              <option value="/usr/local/bin/theme-check-language-server" />
+              <option value="--auto-correct" />
+            </array>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </application>
