@@ -23,9 +23,9 @@
     <mask>*.antlers.html</mask>
     <mask>*.scss</mask>
     <mask>*.vue</mask>
-    <mask>*.js</mask>
     <mask>*.blade.php</mask>
     <mask>*.php</mask>
     <mask>*.liquid</mask>
+    <mask>*.js</mask>
   </component>
 </application>
