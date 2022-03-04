@@ -25,7 +25,8 @@
     <mask>*.vue</mask>
     <mask>*.blade.php</mask>
     <mask>*.php</mask>
-    <mask>*.liquid</mask>
     <mask>*.js</mask>
+    <mask>*.liquid</mask>
+    <mask>*.svelte</mask>
   </component>
 </application>
