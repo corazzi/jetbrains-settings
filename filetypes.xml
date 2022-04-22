@@ -7,6 +7,7 @@
       <mapping pattern="retailer-sign-in" type="AUTO_DETECTED" />
       <removed_mapping ext="csv" type="CSV" />
       <mapping ext="csv" type="CSV file" />
+      <mapping ext="html" type="Handlebars/Mustache" />
       <mapping pattern="test" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="travis-ci-apache" type="PLAIN_TEXT" />
@@ -29,6 +30,7 @@
       <mapping ext="woff" type="PLAIN_TEXT" />
       <removed_mapping pattern="*.antlers.html" approved="true" type="HTML" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="liquid" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
