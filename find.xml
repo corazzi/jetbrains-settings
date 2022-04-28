@@ -23,11 +23,11 @@
     <mask>*.vue</mask>
     <mask>*.blade.php</mask>
     <mask>*.php</mask>
-    <mask>*.svelte</mask>
     <mask>*.liquid</mask>
     <mask>*.json</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
+    <mask>*.svelte</mask>
   </component>
 </application>
