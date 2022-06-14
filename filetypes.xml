@@ -5,6 +5,7 @@
       <mapping pattern="main" type="AUTO_DETECTED" />
       <mapping pattern="EnableNewContentBulletins" type="AUTO_DETECTED" />
       <mapping pattern="retailer-sign-in" type="AUTO_DETECTED" />
+      <mapping pattern="00_artisan_scheduler" type="AUTO_DETECTED" />
       <mapping ext="csv" type="CSV" />
       <removed_mapping ext="csv" type="CSV file" />
       <mapping ext="html" type="Handlebars/Mustache" />
@@ -28,6 +29,7 @@
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="paw" type="PLAIN_TEXT" />
+      <mapping ext="d/00_artisan_scheduler" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <removed_mapping pattern="*.antlers.html" approved="true" type="HTML" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
