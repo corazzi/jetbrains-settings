@@ -6,6 +6,7 @@
       <mapping pattern="EnableNewContentBulletins" type="AUTO_DETECTED" />
       <mapping pattern="retailer-sign-in" type="AUTO_DETECTED" />
       <mapping pattern="00_artisan_scheduler" type="AUTO_DETECTED" />
+      <mapping pattern="*.css.hogan.liquid" type="CSS" />
       <removed_mapping ext="csv" type="CSV" />
       <mapping ext="csv" type="CSV file" />
       <mapping ext="html" type="Handlebars/Mustache" />
