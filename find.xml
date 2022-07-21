@@ -27,7 +27,7 @@
     <mask>*.js</mask>
     <mask>*.html</mask>
     <mask>*.blade.php</mask>
-    <mask>*.svelte</mask>
     <mask>*.scss</mask>
+    <mask>*.svelte</mask>
   </component>
 </application>
