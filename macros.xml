@@ -10,5 +10,8 @@
       <action id="EditorDown" />
       <action id="SaveAll" />
     </macro>
+    <macro name="Save without formatting">
+      <shortuct text="control alt S" />
+    </macro>
   </component>
 </application>
