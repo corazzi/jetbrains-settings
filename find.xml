@@ -24,10 +24,10 @@
     <mask>*.liquid</mask>
     <mask>*.vue</mask>
     <mask>*.blade.php</mask>
-    <mask>*.scss</mask>
     <mask>*.svelte</mask>
     <mask>*.html</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
