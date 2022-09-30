@@ -7,11 +7,10 @@
       <mapping pattern="retailer-sign-in" type="AUTO_DETECTED" />
       <mapping pattern="00_artisan_scheduler" type="AUTO_DETECTED" />
       <mapping pattern="*.css.hogan.liquid" type="CSS" />
-      <removed_mapping ext="csv" type="CSV" />
-      <mapping ext="csv" type="CSV file" />
-      <removed_mapping ext="graphqlconfig" type="GraphQL Config" />
+      <mapping ext="csv" type="CSV" />
+      <removed_mapping ext="csv" type="CSV file" />
+      <mapping ext="graphqlconfig" type="GraphQL Config" />
       <mapping ext="html" type="Handlebars/Mustache" />
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="test" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="travis-ci-apache" type="PLAIN_TEXT" />
