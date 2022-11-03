@@ -5,7 +5,6 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -15,7 +14,6 @@
     <mask>care-*.svg</mask>
     <mask>*.svg</mask>
     <mask>*js</mask>
-    <mask>*.css</mask>
     <mask>*.md</mask>
     <mask>*.yaml</mask>
     <mask>*blade.php</mask>
@@ -30,5 +28,6 @@
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.css</mask>
   </component>
 </application>
