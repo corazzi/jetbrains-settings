@@ -7,7 +7,7 @@
       <mapping pattern="retailer-sign-in" type="AUTO_DETECTED" />
       <mapping pattern="00_artisan_scheduler" type="AUTO_DETECTED" />
       <mapping pattern="*.css.hogan.liquid" type="CSS" />
-      <mapping ext="csv" type="CSV" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="test" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="travis-ci-apache" type="PLAIN_TEXT" />
