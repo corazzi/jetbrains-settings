@@ -19,6 +19,10 @@
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="eslint.additional.file.extensions" value="svelte" />
+    <entry key="ide.editor.tab.selection.animation" value="true" />
+    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
+    <entry key="editor.focus.mode.color.light" value="87a7ab" />
+    <entry key="editor.focus.mode.color.dark" value="87a7ab" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

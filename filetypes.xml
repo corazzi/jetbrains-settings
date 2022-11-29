@@ -1,24 +1,24 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="FeaturedProductCardInformation" type="AUTO_DETECTED" />
       <mapping pattern="main" type="AUTO_DETECTED" />
       <mapping pattern="EnableNewContentBulletins" type="AUTO_DETECTED" />
       <mapping pattern="retailer-sign-in" type="AUTO_DETECTED" />
+      <mapping pattern="FeaturedProductCardInformation" type="AUTO_DETECTED" />
       <mapping pattern="00_artisan_scheduler" type="AUTO_DETECTED" />
       <mapping pattern="*.css.hogan.liquid" type="CSS" />
       <mapping pattern="test" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="travis-ci-apache" type="PLAIN_TEXT" />
+      <mapping pattern=".gitinclude" type="PLAIN_TEXT" />
+      <mapping pattern=".valetphprc" type="PLAIN_TEXT" />
+      <mapping pattern="build/travis-ci-apache" type="PLAIN_TEXT" />
       <mapping pattern=".phpcs.dist" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="build/travis-ci-apache" type="PLAIN_TEXT" />
-      <mapping pattern=".gitinclude" type="PLAIN_TEXT" />
       <mapping pattern="category-navigation-templates" type="PLAIN_TEXT" />
-      <mapping pattern=".shopifyignore" type="PLAIN_TEXT" />
-      <mapping pattern=".valetphprc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern=".shopifyignore" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
