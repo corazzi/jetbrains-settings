@@ -1,15 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="SearchEverywhere" is_action="true" action_type="-1" position="7">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="XDebugger.SwitchWatchesInVariables" is_action="true" action_type="-1" position="5">
-      <path value="root" />
-      <path value="Debug Watches Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="XDebugger.CopyWatch" is_action="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Debug Watches Toolbar" />
@@ -25,29 +15,14 @@
       <path value="Debug Watches Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ChangesView.GroupBy" is_group="true" action_type="-1" position="3">
-      <path value="root" />
-      <path value="VCS Log Changes Browser Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Vcs.Operations.Popup.NonVcsAware" is_group="true" action_type="-1" position="3">
       <path value="root" />
       <path value="VCS Operations Popup" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="XDebugger.MoveWatchUp" is_action="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Debug Watches Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="VCS Log Changes Browser Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Vcs.Operations.Popup.Vcs.Providers" is_group="true" action_type="-1" position="2">
