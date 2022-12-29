@@ -21,8 +21,8 @@
     <entry key="eslint.additional.file.extensions" value="svelte" />
     <entry key="ide.editor.tab.selection.animation" value="true" />
     <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
-    <entry key="editor.focus.mode.color.light" value="9ba0a3" />
-    <entry key="editor.focus.mode.color.dark" value="9ba0a3" />
+    <entry key="editor.focus.mode.color.light" value="6a737d" />
+    <entry key="editor.focus.mode.color.dark" value="6a737d" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
