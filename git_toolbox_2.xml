@@ -1,8 +1,23 @@
 <application>
   <component name="GitToolBoxAppSettings2">
+    <option name="autoFetchEnabled" value="false" />
+    <option name="autoFetchOnBranchSwitch" value="false" />
+    <option name="behindTracker" value="false" />
     <option name="blameInlineAuthorNameType" value="FULL" />
     <option name="blameInlineDateType" value="ABSOLUTE" />
     <option name="blameStatusAuthorNameType" value="FULL" />
+    <option name="collapseProjectViewDecoration" value="false" />
+    <option name="commitDialogCompletion" value="false" />
+    <option name="outdatedBranchesAutoCleanup">
+      <OutdatedBranchesAutoCleanupConfig>
+        <option name="autoCheckEnabled" value="false" />
+      </OutdatedBranchesAutoCleanupConfig>
+    </option>
+    <option name="outdatedBranchesOldCommitDeleteConfirmation" value="false" />
+    <option name="showBlameWidget" value="false" />
+    <option name="showChangesInStatusBar" value="false" />
+    <option name="showProjectViewStatus" value="false" />
+    <option name="showStatusWidget" value="false" />
     <option name="startupNotificationVersion" value="1" />
     <option name="version" value="6" />
   </component>
