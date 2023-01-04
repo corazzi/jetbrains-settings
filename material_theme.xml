@@ -3,6 +3,7 @@
     <option name="compactStatusBar" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="useGlobalFont" value="true" />
@@ -14,7 +15,7 @@
     <option name="indicatorThickness" value="5" />
     <option name="settingsSelectedTab" value="6" />
     <option name="accentColor" value="f9826c" />
-    <option name="selectedTheme" value="GITHUB_DARK" />
+    <option name="selectedTheme" value="SYNTHWAVE" />
     <option name="userId" value="-425204e0:16b557704bd:-8000" />
     <option name="version" value="8.4.1" />
     <option name="showWhatsNew" value="false" />

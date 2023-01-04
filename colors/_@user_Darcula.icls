@@ -3,31 +3,31 @@
     <property name="created">2018-01-20T00:03:08</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2022-12-29T21:05:04</property>
+    <property name="modified">2023-01-04T17:00:08</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_ADDED" value="72f1b8" />
     <option name="FILESTATUS_COPIED" value="c3e88d" />
-    <option name="FILESTATUS_DELETED" value="f77669" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="773895" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="727238" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff0000" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff0000" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff0000" />
+    <option name="FILESTATUS_DELETED" value="fe4450" />
+    <option name="FILESTATUS_HIJACKED" value="fede5d" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="fe4450" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ffffff59" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="3edf9" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="3edf9" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="3edf9" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="292d31" />
-    <option name="FILESTATUS_MERGED" value="7503dc" />
-    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="dbedff" />
+    <option name="FILESTATUS_MERGED" value="36f9f6" />
+    <option name="FILESTATUS_MODIFIED" value="f92aad" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="b893ce" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="b893ce" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
-    <option name="FILESTATUS_SWITCHED" value="f77669" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="eaa00" />
-    <option name="FILESTATUS_changelistConflict" value="ff0000" />
-    <option name="FILESTATUS_modifiedOutside" value="47e4" />
+    <option name="FILESTATUS_SUPPRESSED" value="848bbd" />
+    <option name="FILESTATUS_SWITCHED" value="fede5d" />
+    <option name="FILESTATUS_UNKNOWN" value="999999" />
+    <option name="FILESTATUS_addedOutside" value="3edf9" />
+    <option name="FILESTATUS_changelistConflict" value="a148ab" />
+    <option name="FILESTATUS_modifiedOutside" value="a148ab" />
   </colors>
 </scheme>
