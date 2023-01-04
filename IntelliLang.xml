@@ -1,0 +1,9 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="twig">
+      <display-name>Liquid Schema</display-name>
+      <value-pattern>\{%\s?schema\s?%}(.*)\{%\s?endschema\s?%}</value-pattern>
+      <place><![CDATA[twigBlock("json")]]></place>
+    </injection>
+  </component>
+</application>

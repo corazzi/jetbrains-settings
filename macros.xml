@@ -1,0 +1,17 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="PHPCS + Save">
+      <action id="Tool_External Tools_PHP Code Sniffer" />
+      <action id="SaveAll" />
+    </macro>
+    <macro name="Format &amp; Save">
+      <action id="ReformatCode" />
+      <action id="EditorUp" />
+      <action id="EditorDown" />
+      <action id="SaveAll" />
+    </macro>
+    <macro name="Save without formatting">
+      <shortuct text="control alt S" />
+    </macro>
+  </component>
+</application>
