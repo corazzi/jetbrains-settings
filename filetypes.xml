@@ -7,8 +7,6 @@
       <mapping pattern="FeaturedProductCardInformation" type="AUTO_DETECTED" />
       <mapping pattern="00_artisan_scheduler" type="AUTO_DETECTED" />
       <mapping pattern="*.css.hogan.liquid" type="CSS" />
-      <mapping ext="dockerignore" type="Docker File" />
-      <removed_mapping ext="dockerignore" type="DockerIgnore file" />
       <mapping pattern="test" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="travis-ci-apache" type="PLAIN_TEXT" />
@@ -34,6 +32,7 @@
       <removed_mapping pattern="*.antlers.html" approved="true" type="HTML" />
       <removed_mapping ext="csv" approved="true" type="CSV file" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="gql" approved="true" type="Graql" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
