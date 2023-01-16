@@ -1,0 +1,53 @@
+<application>
+  <component name="ui-state">
+    <option name="templatesTreeState">
+      <TreeState>
+        <myExpandedPaths>
+          <array>
+            <item name="" type="" />
+            <item name="JavaScript" type="cbb8eebc:String" user="JavaScript" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="JavaScript" type="cbb8eebc:String" user="JavaScript" />
+            <item name="General" type="cbb8eebc:String" user="General" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="JavaScript" type="cbb8eebc:String" user="JavaScript" />
+            <item name="Suspicious" type="cbb8eebc:String" user="Suspicious" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="PHP" type="cbb8eebc:String" user="PHP" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="PHP" type="cbb8eebc:String" user="PHP" />
+            <item name="Expressions" type="cbb8eebc:String" user="Expressions" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="PHP" type="cbb8eebc:String" user="PHP" />
+            <item name="General" type="cbb8eebc:String" user="General" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="PHP" type="cbb8eebc:String" user="PHP" />
+            <item name="Suspicious" type="cbb8eebc:String" user="Suspicious" />
+          </array>
+          <array>
+            <item name="" type="" />
+            <item name="XML/HTML" type="cbb8eebc:String" user="XML/HTML" />
+          </array>
+        </myExpandedPaths>
+        <mySelectedPaths>
+          <array>
+            <item name="" type="" />
+            <item name="PHP" type="cbb8eebc:String" user="PHP" />
+          </array>
+        </mySelectedPaths>
+      </TreeState>
+    </option>
+  </component>
+</application>
