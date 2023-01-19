@@ -27,7 +27,7 @@
     <mask>*.js</mask>
     <mask>*.blade.php</mask>
     <mask>*.liquid</mask>
-    <mask>*.php</mask>
     <mask>*.vue</mask>
+    <mask>*.php</mask>
   </component>
 </application>
