@@ -14,7 +14,6 @@
     <mask>care-*.svg</mask>
     <mask>*.svg</mask>
     <mask>*js</mask>
-    <mask>*.md</mask>
     <mask>*.yaml</mask>
     <mask>*blade.php</mask>
     <mask>i10n-*.liquid</mask>
@@ -29,5 +28,6 @@
     <mask>*.liquid</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
+    <mask>*.md</mask>
   </component>
 </application>
