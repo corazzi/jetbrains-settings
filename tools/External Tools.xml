@@ -1,7 +1,7 @@
 <toolSet name="External Tools">
   <tool name="PHP CS Fixer [Docker]" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$/.php-cs-fixer-docker.sh" />
+      <option name="COMMAND" value="$USER_HOME$/.sachas-dotfiles/scripts.d/.php-cs-fixer-docker.sh" />
       <option name="PARAMETERS" value="fix --quiet --diff $FileDirRelativeToProjectRoot$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
