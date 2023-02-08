@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.hl7" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -28,8 +28,8 @@
     <mask>*.blade.php</mask>
     <mask>*.liquid</mask>
     <mask>*.md</mask>
-    <mask>*.hl7</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
+    <mask>*.hl7</mask>
   </component>
 </application>
