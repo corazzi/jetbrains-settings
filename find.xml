@@ -30,7 +30,7 @@
     <mask>*.blade.php</mask>
     <mask>*.hl7</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>*.vue</mask>
+    <mask>*.php</mask>
   </component>
 </application>
