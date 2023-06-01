@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tf" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -26,9 +27,9 @@
     <mask>*.blade.php</mask>
     <mask>*.hl7</mask>
     <mask>*.js</mask>
-    <mask>*.tf</mask>
     <mask>*.vue</mask>
     <mask>*.py</mask>
     <mask>*.php</mask>
+    <mask>*.tf</mask>
   </component>
 </application>
