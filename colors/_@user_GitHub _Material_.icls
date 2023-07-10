@@ -4,11 +4,10 @@
     <property name="created">2019-09-24T10:28:53</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2023-01-04T16:58:07</property>
+    <property name="modified">2023-07-10T11:33:06</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="22863a" />
