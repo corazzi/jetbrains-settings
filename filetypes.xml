@@ -7,6 +7,15 @@
       <mapping pattern="FeaturedProductCardInformation" type="AUTO_DETECTED" />
       <mapping pattern="00_artisan_scheduler" type="AUTO_DETECTED" />
       <mapping pattern="*.css.hogan.liquid" type="CSS" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+      <mapping ext="sql" type="DBN-SQL" />
       <mapping pattern="test" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="travis-ci-apache" type="PLAIN_TEXT" />
@@ -30,6 +39,15 @@
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="hl7" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <removed_mapping ext="prc" type="SQL" />
+      <removed_mapping ext="vw" type="SQL" />
+      <removed_mapping ext="pkb" type="SQL" />
+      <removed_mapping ext="tpb" type="SQL" />
+      <removed_mapping ext="trg" type="SQL" />
+      <removed_mapping ext="sql" type="SQL" />
+      <removed_mapping ext="tps" type="SQL" />
+      <removed_mapping ext="pks" type="SQL" />
+      <removed_mapping ext="fnc" type="SQL" />
       <removed_mapping pattern="*.antlers.html" approved="true" type="HTML" />
       <removed_mapping ext="csv" approved="true" type="CSV file" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
