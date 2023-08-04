@@ -29,7 +29,7 @@
     <mask>*.py</mask>
     <mask>*.tf</mask>
     <mask>*.conf</mask>
-    <mask>*.php</mask>
     <mask>*.vue</mask>
+    <mask>*.php</mask>
   </component>
 </application>
