@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -18,7 +19,6 @@
     <mask>*.antlers.html</mask>
     <mask>*.json</mask>
     <mask>*.svelte</mask>
-    <mask>*.html</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
     <mask>*.liquid</mask>
@@ -31,5 +31,6 @@
     <mask>*.conf</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
+    <mask>*.html</mask>
   </component>
 </application>
