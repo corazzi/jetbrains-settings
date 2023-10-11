@@ -5,4 +5,10 @@
       <option name="Twig" value="true" />
     </context>
   </template>
+  <template name="nspace" value="namespace $NAMESPACE$" description="Add the current namespace" toReformat="true" toShortenFQNames="true">
+    <variable name="NAMESPACE" expression="phpQualifiedClassName()" defaultValue="App\" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
