@@ -4,9 +4,19 @@
     <property name="created">2023-01-04T15:58:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.3.1.0.0</property>
-    <property name="modified">2023-10-18T09:22:45</property>
+    <property name="modified">2023-10-18T14:52:27</property>
     <property name="originalScheme">SynthWave '84 (Material)</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.8" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="FiraCode Nerd Font Mono" />
+    <option name="EDITOR_FONT_SIZE" value="19" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="&lt;Font missing: DejaVu Sans Mono for Powerline&gt;" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="FiraCode Nerd Font Mono" />
     <option name="EDITOR_FONT_SIZE" value="14" />
@@ -16,7 +26,6 @@
     <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.8" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="206d4b" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
