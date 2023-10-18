@@ -26,10 +26,10 @@
     <mask>*.hl7</mask>
     <mask>*.py</mask>
     <mask>*.tf</mask>
-    <mask>*.conf</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
+    <mask>*.conf</mask>
   </component>
 </application>
