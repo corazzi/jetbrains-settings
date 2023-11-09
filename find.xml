@@ -18,7 +18,6 @@
     <mask>*blade.php</mask>
     <mask>i10n-*.liquid</mask>
     <mask>*.antlers.html</mask>
-    <mask>*.json</mask>
     <mask>*.svelte</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
@@ -33,5 +32,6 @@
     <mask>*.vue</mask>
     <mask>*.conf</mask>
     <mask>*.php</mask>
+    <mask>*.json</mask>
   </component>
 </application>
