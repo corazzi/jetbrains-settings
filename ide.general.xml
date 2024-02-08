@@ -33,7 +33,9 @@
       <map>
         <entry key="Memory" value="true" />
         <entry key="ReadOnlyAttribute" value="false" />
+        <entry key="github.copilot.statusBarWidgetFactory" value="false" />
         <entry key="mtStatusBar" value="false" />
+        <entry key="mtThemeFactory" value="false" />
       </map>
     </option>
   </component>
