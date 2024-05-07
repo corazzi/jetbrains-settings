@@ -4,7 +4,7 @@
     <property name="created">2017-08-29T18:16:37</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.1.0.0</property>
-    <property name="modified">2024-05-07T15:08:07</property>
+    <property name="modified">2024-05-07T15:47:12</property>
     <property name="originalScheme">exZeusNG</property>
   </metaInfo>
   <option name="LINE_SPACING" value="2.0" />
@@ -514,13 +514,13 @@
         <option name="FOREGROUND" value="f8f8f2" />
       </value>
     </option>
-    <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="DEFAULT_STATIC_METHOD" baseAttributes="" />
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="fff799" />
       </value>
     </option>
-    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="a7b3c2" />
@@ -1291,7 +1291,7 @@
     <option name="PHP_SEMICOLON">
       <value />
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="PHP_VAR" baseAttributes="" />
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="f36e3a" />
