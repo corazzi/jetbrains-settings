@@ -1,0 +1,14 @@
+<application>
+  <component name="GitToolBoxBranchesAppConfig">
+    <option name="outdated">
+      <OutdatedBranchesConfig>
+        <option name="autoCheckEnabled" value="false" />
+        <option name="branchesExclusionGlobs">
+          <list />
+        </option>
+        <option name="oldCommitDeleteConfirmation" value="false" />
+      </OutdatedBranchesConfig>
+    </option>
+    <option name="version" value="2" />
+  </component>
+</application>
