@@ -2,14 +2,91 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="009688" />
+        <option name="accentColorHex" value="f9826c" />
+        <option name="overrideAccentColor" value="false" />
       </MTAccentConfigState>
+    </option>
+    <option name="contrastState">
+      <MTContrastConfigState>
+        <option name="contrastMode" value="true" />
+      </MTContrastConfigState>
+    </option>
+    <option name="customThemeState">
+      <MTCustomThemeConfigState>
+        <option name="accentColorHex" value="2aa298" />
+        <option name="activeColorHex" value="d3e8f8" />
+        <option name="backgroundColorHex" value="f0f0f0" />
+        <option name="borderColorHex" value="d9d9d9" />
+        <option name="buttonColorHex" value="d9d9d9" />
+        <option name="colorScheme" value="GitHub (Material)" />
+        <option name="contrastColorHex" value="f0f0f0" />
+        <option name="disabledColorHex" value="93a1a1" />
+        <option name="excludedColorHex" value="e0e7ea" />
+        <option name="foregroundColorHex" value="403f53" />
+        <option name="highlightColorHex" value="cccccc" />
+        <option name="notificationColorHex" value="f0f0f0" />
+        <option name="secondBackgroundColorHex" value="fbfbfb" />
+        <option name="selectionBackgroundColorHex" value="d3e8f8" />
+        <option name="selectionForegroundColorHex" value="403f53" />
+        <option name="textColorHex" value="90a7b2" />
+        <option name="treeColorHex" value="dfebf4" />
+      </MTCustomThemeConfigState>
+    </option>
+    <option name="featuresState">
+      <MTFeaturesConfigState>
+        <option name="useGlobalFont" value="true" />
+      </MTFeaturesConfigState>
+    </option>
+    <option name="lightCustomThemeState">
+      <MTLightCustomThemeConfigState>
+        <option name="accentColorHex" value="2aa298" />
+        <option name="activeColorHex" value="d3e8f8" />
+        <option name="backgroundColorHex" value="f0f0f0" />
+        <option name="borderColorHex" value="d9d9d9" />
+        <option name="buttonColorHex" value="d9d9d9" />
+        <option name="colorScheme" value="GitHub (Material)" />
+        <option name="contrastColorHex" value="f0f0f0" />
+        <option name="disabledColorHex" value="93a1a1" />
+        <option name="excludedColorHex" value="e0e7ea" />
+        <option name="foregroundColorHex" value="403f53" />
+        <option name="highlightColorHex" value="cccccc" />
+        <option name="notificationColorHex" value="f0f0f0" />
+        <option name="secondBackgroundColorHex" value="fbfbfb" />
+        <option name="selectionBackgroundColorHex" value="d3e8f8" />
+        <option name="selectionForegroundColorHex" value="403f53" />
+        <option name="textColorHex" value="90a7b2" />
+        <option name="treeColorHex" value="dfebf4" />
+      </MTLightCustomThemeConfigState>
     </option>
     <option name="metadata">
       <MTMetadataState>
-        <option name="userId" value="-36e8bed7:19059cf2919:-8000" />
+        <option name="migrated" value="true" />
+        <option name="pristineConfig" value="false" />
+        <option name="userId" value="-425204e0:16b557704bd:-8000" />
+        <option name="version" value="8.13.2" />
         <option name="wizardShown" value="true" />
       </MTMetadataState>
+    </option>
+    <option name="projectTreeState">
+      <MTProjectTreeConfigState>
+        <option name="indicatorStyle" value="Sharp" />
+        <option name="indicatorThickness" value="5" />
+        <option name="treeFont" value="FiraCode Nerd Font Mono" />
+        <option name="treeFontEnabled" value="true" />
+        <option name="treeFontSize" value="13" />
+        <option name="useColoredDirectories" value="true" />
+      </MTProjectTreeConfigState>
+    </option>
+    <option name="themeState">
+      <MTThemeConfigState>
+        <option name="selectedThemeName" value="GITHUB" />
+      </MTThemeConfigState>
+    </option>
+    <option name="titleBarState">
+      <MTTitleBarConfigState>
+        <option name="useColoredTitleBar" value="false" />
+        <option name="useProjectFrame" value="true" />
+      </MTTitleBarConfigState>
     </option>
   </component>
 </application>
