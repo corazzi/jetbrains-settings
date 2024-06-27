@@ -1,0 +1,15 @@
+<application>
+  <component name="MaterialThemeNewConfig">
+    <option name="accentState">
+      <MTAccentConfigState>
+        <option name="accentColorHex" value="009688" />
+      </MTAccentConfigState>
+    </option>
+    <option name="metadata">
+      <MTMetadataState>
+        <option name="userId" value="-36e8bed7:19059cf2919:-8000" />
+        <option name="wizardShown" value="true" />
+      </MTMetadataState>
+    </option>
+  </component>
+</application>
