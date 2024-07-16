@@ -5,6 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -33,7 +34,7 @@
     <mask>*.vue</mask>
     <mask>*.tsx</mask>
     <mask>*.md</mask>
-    <mask>*.php</mask>
     <mask />
+    <mask>*.php</mask>
   </component>
 </application>
