@@ -31,6 +31,7 @@
       <map>
         <entry key="Memory" value="true" />
         <entry key="ReadOnlyAttribute" value="false" />
+        <entry key="VfsRefresh" value="true" />
         <entry key="mtStatusBar" value="false" />
         <entry key="mtThemeFactory" value="false" />
       </map>
