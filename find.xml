@@ -5,7 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.vue" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -31,10 +31,10 @@
     <mask>*.conf</mask>
     <mask>*.json</mask>
     <mask>*.blade.php</mask>
-    <mask>*.vue</mask>
     <mask>*.tsx</mask>
     <mask>*.md</mask>
     <mask />
     <mask>*.php</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
