@@ -1,11 +1,11 @@
 <application>
   <component name="DefaultFont">
     <option name="VERSION" value="1" />
-    <option name="FONT_SIZE" value="14" />
-    <option name="FONT_SIZE_2D" value="14.0" />
+    <option name="FONT_SIZE" value="18" />
+    <option name="FONT_SIZE_2D" value="18.0" />
     <option name="FONT_FAMILY" value="FiraCode Nerd Font Mono" />
     <option name="FONT_BOLD_SUB_FAMILY" value="SemiBold" />
-    <option name="LINE_SPACING" value="1.8" />
+    <option name="LINE_SPACING" value="1.6" />
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="&lt;Font missing: DejaVu Sans Mono for Powerline&gt;" />
   </component>

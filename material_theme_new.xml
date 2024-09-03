@@ -73,7 +73,7 @@
         <option name="indicatorThickness" value="5" />
         <option name="treeFont" value="FiraCode Nerd Font Mono" />
         <option name="treeFontEnabled" value="true" />
-        <option name="treeFontSize" value="13" />
+        <option name="treeFontSize" value="16" />
         <option name="useColoredDirectories" value="true" />
       </MTProjectTreeConfigState>
     </option>
