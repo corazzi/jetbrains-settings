@@ -8,6 +8,16 @@
     <property name="originalScheme">Material Sky Blue</property>
     <property name="partialSave">true</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.6" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="FiraCode Nerd Font Mono" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="&lt;Font missing: DejaVu Sans Mono for Powerline&gt;" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="16" />
