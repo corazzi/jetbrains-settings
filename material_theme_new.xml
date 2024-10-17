@@ -77,6 +77,15 @@
         <option name="useColoredDirectories" value="true" />
       </MTProjectTreeConfigState>
     </option>
+    <option name="tabsState">
+      <MTTabsConfigState>
+        <option name="activeBoldTab" value="true" />
+        <option name="highlightColorEnabled" value="true" />
+        <option name="highlightColorHex" value="031e7d" />
+        <option name="tabHighlightPosition" value="Boxed" />
+        <option name="tabHighlightPositionName" value="FULL" />
+      </MTTabsConfigState>
+    </option>
     <option name="themeState">
       <MTThemeConfigState>
         <option name="selectedThemeName" value="SKYBLUE" />
@@ -87,6 +96,13 @@
         <option name="useColoredTitleBar" value="false" />
         <option name="useProjectFrame" value="true" />
       </MTTitleBarConfigState>
+    </option>
+    <option name="uiComponentsState">
+      <MTUiComponentsConfigState>
+        <option name="borderedButtons" value="true" />
+        <option name="borderless" value="true" />
+        <option name="invertedCompletionSelection" value="true" />
+      </MTUiComponentsConfigState>
     </option>
   </component>
 </application>
