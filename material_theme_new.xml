@@ -82,8 +82,9 @@
         <option name="activeBoldTab" value="true" />
         <option name="highlightColorEnabled" value="true" />
         <option name="highlightColorHex" value="031e7d" />
-        <option name="tabHighlightPosition" value="Boxed" />
-        <option name="tabHighlightPositionName" value="FULL" />
+        <option name="tabHighlightPosition" value="Bottom" />
+        <option name="tabHighlightPositionName" value="BOTTOM" />
+        <option name="tabsShadow" value="false" />
       </MTTabsConfigState>
     </option>
     <option name="themeState">
