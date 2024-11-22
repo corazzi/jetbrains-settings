@@ -1,53 +1,56 @@
 <application>
   <component name="ui-state">
+    <option name="migrated" value="true" />
     <option name="templatesTreeState">
       <TreeState>
         <myExpandedPaths>
           <array>
             <item name="" type="" />
-            <item name="JavaScript" type="cbb8eebc:String" user="JavaScript" />
+            <item name="JavaScript" type="cbb8eebc:String" />
           </array>
           <array>
             <item name="" type="" />
-            <item name="JavaScript" type="cbb8eebc:String" user="JavaScript" />
-            <item name="General" type="cbb8eebc:String" user="General" />
+            <item name="JavaScript" type="cbb8eebc:String" />
+            <item name="General" type="cbb8eebc:String" />
           </array>
           <array>
             <item name="" type="" />
-            <item name="JavaScript" type="cbb8eebc:String" user="JavaScript" />
-            <item name="Suspicious" type="cbb8eebc:String" user="Suspicious" />
+            <item name="JavaScript" type="cbb8eebc:String" />
+            <item name="Suspicious" type="cbb8eebc:String" />
           </array>
           <array>
             <item name="" type="" />
-            <item name="PHP" type="cbb8eebc:String" user="PHP" />
+            <item name="PHP" type="cbb8eebc:String" />
           </array>
           <array>
             <item name="" type="" />
-            <item name="PHP" type="cbb8eebc:String" user="PHP" />
-            <item name="Expressions" type="cbb8eebc:String" user="Expressions" />
+            <item name="PHP" type="cbb8eebc:String" />
+            <item name="Expressions" type="cbb8eebc:String" />
           </array>
           <array>
             <item name="" type="" />
-            <item name="PHP" type="cbb8eebc:String" user="PHP" />
-            <item name="General" type="cbb8eebc:String" user="General" />
+            <item name="PHP" type="cbb8eebc:String" />
+            <item name="General" type="cbb8eebc:String" />
           </array>
           <array>
             <item name="" type="" />
-            <item name="PHP" type="cbb8eebc:String" user="PHP" />
-            <item name="Suspicious" type="cbb8eebc:String" user="Suspicious" />
+            <item name="PHP" type="cbb8eebc:String" />
+            <item name="Suspicious" type="cbb8eebc:String" />
           </array>
           <array>
             <item name="" type="" />
-            <item name="XML/HTML" type="cbb8eebc:String" user="XML/HTML" />
+            <item name="XML/HTML" type="cbb8eebc:String" />
           </array>
         </myExpandedPaths>
         <mySelectedPaths>
           <array>
             <item name="" type="" />
-            <item name="PHP" type="cbb8eebc:String" user="PHP" />
+            <item name="Draft Template" type="cbb8eebc:String" />
           </array>
         </mySelectedPaths>
       </TreeState>
     </option>
+    <option name="scopeType" value="PROJECT" />
+    <option name="scopeDescriptor" value="" />
   </component>
 </application>
