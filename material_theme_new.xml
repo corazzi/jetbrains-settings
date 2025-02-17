@@ -2,13 +2,20 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="f9826c" />
+        <option name="accentColorHex" value="c6ff00" />
         <option name="overrideAccentColor" value="false" />
       </MTAccentConfigState>
+    </option>
+    <option name="compactState">
+      <MTCompactConfigState>
+        <option name="compactHeaderSize" value="26" />
+        <option name="headerSize" value="26" />
+      </MTCompactConfigState>
     </option>
     <option name="contrastState">
       <MTContrastConfigState>
         <option name="contrastMode" value="true" />
+        <option name="highContrast" value="true" />
       </MTContrastConfigState>
     </option>
     <option name="customThemeState">
@@ -34,6 +41,8 @@
     </option>
     <option name="featuresState">
       <MTFeaturesConfigState>
+        <option name="overlayOpacity" value="79" />
+        <option name="showMoreOverlays" value="true" />
         <option name="useGlobalFont" value="true" />
       </MTFeaturesConfigState>
     </option>
@@ -63,7 +72,7 @@
         <option name="migrated" value="true" />
         <option name="pristineConfig" value="false" />
         <option name="userId" value="-425204e0:16b557704bd:-8000" />
-        <option name="version" value="9.3.1" />
+        <option name="version" value="9.7.0" />
         <option name="wizardShown" value="true" />
       </MTMetadataState>
     </option>
@@ -82,6 +91,7 @@
         <option name="activeBoldTab" value="true" />
         <option name="highlightColorEnabled" value="true" />
         <option name="highlightColorHex" value="031e7d" />
+        <option name="roundedTabs" value="true" />
         <option name="tabHighlightPosition" value="Bottom" />
         <option name="tabHighlightPositionName" value="BOTTOM" />
         <option name="tabsShadow" value="false" />
@@ -95,7 +105,6 @@
     <option name="titleBarState">
       <MTTitleBarConfigState>
         <option name="useColoredTitleBar" value="false" />
-        <option name="useProjectFrame" value="true" />
       </MTTitleBarConfigState>
     </option>
     <option name="uiComponentsState">
@@ -103,6 +112,8 @@
         <option name="borderedButtons" value="true" />
         <option name="borderless" value="true" />
         <option name="invertedCompletionSelection" value="true" />
+        <option name="roundNotifications" value="true" />
+        <option name="useShadows" value="true" />
       </MTUiComponentsConfigState>
     </option>
   </component>

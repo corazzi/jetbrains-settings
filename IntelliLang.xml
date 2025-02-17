@@ -3,6 +3,7 @@
     <injection language="JSON" injector-id="twig">
       <display-name>Liquid Schema</display-name>
       <value-pattern>\{%\s?schema\s?%}(.*)\{%\s?endschema\s?%}</value-pattern>
+      <single-file value="true" />
       <place><![CDATA[twigBlock("json")]]></place>
     </injection>
   </component>
