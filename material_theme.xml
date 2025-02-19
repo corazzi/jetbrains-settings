@@ -1,27 +1,29 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactStatusBar" value="true" />
+    <option name="contrastMode" value="true" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="useColoredDirectories" value="true" />
+    <option name="useGlobalFont" value="true" />
+    <option name="useProjectFrame" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isContrastMode" value="true" />
-    <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="false" />
-    <option name="pristineConfig" value="false" />
-    <option name="treeFontSizeEnabled" value="true" />
-    <option name="useGlobalFont" value="true" />
-    <option name="useColoredDirectories" value="true" />
-    <option name="useProjectFrame" value="true" />
+    <option name="isOverrideAccentColor" value="false" />
+    <option name="isTreeFontSizeEnabled" value="true" />
+    <option name="isUseGlobalFont" value="true" />
+    <option name="isUseColoredDirectories" value="true" />
+    <option name="isUseProjectFrame" value="true" />
     <option name="indicatorStyle" value="Sharp" />
-    <option name="customSidebarHeight" value="28" />
     <option name="treeFontSize" value="13" />
     <option name="indicatorThickness" value="5" />
-    <option name="settingsSelectedTab" value="2" />
     <option name="accentColor" value="f9826c" />
     <option name="secondAccentColor" />
     <option name="highlightColor" />
-    <option name="focusColor" />
     <option name="selectedTheme" value="GITHUB" />
     <option name="userId" value="-425204e0:16b557704bd:-8000" />
     <option name="version" value="8.13.2" />
     <option name="treeFont" value="FiraCode Nerd Font Mono" />
-    <option name="showWhatsNew" value="false" />
+    <option name="pristineConfig" value="false" />
   </component>
 </application>
