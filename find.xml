@@ -35,7 +35,7 @@
     <mask />
     <mask>*.blade.php</mask>
     <mask>*.md</mask>
-    <mask>*.vue</mask>
     <mask>*.php</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
