@@ -1,5 +1,4 @@
 <scheme name="_@user_GitHub (Material)" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-09-24T10:28:53</property>
     <property name="ide">PhpStorm</property>
@@ -8,43 +7,26 @@
     <property name="originalScheme">GitHub (Material)</property>
     <property name="partialSave">true</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
-    <option name="FILESTATUS_ADDED" value="91b859" />
-    <option name="FILESTATUS_DELETED" value="808080" />
-    <option name="FILESTATUS_HIJACKED" value="ffb62c" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_MERGED" value="945eb8" />
-    <option name="FILESTATUS_MODIFIED" value="39adb5" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="39adb5" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="39adb5" />
-    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_SUPPRESSED" value="87a7ab" />
-    <option name="FILESTATUS_SWITCHED" value="945eb8" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="ffb62c" />
-    <option name="FILESTATUS_changelistConflict" value="d5756c" />
-    <option name="FILESTATUS_modifiedOutside" value="945eb8" />
-    <option name="NOTIFICATION_BACKGROUND" value="f5e9ab" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="cce5ff" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="cce5ff" />
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="cce5ff" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="cce5ff" />
-    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="cce5ff" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="cce5ff" />
-    <option name="ScrollBar.Mac.thumbColor" value="cce5ff" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="cce5ff" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="cce5ff" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="cce5ff" />
-    <option name="ScrollBar.Transparent.thumbColor" value="cce5ff" />
-    <option name="ScrollBar.hoverThumbBorderColor" value="cce5ff" />
-    <option name="ScrollBar.thumbBorderColor" value="cce5ff" />
-    <option name="ScrollBar.thumbColor" value="cce5ff" />
+    <option name="FILESTATUS_addedOutside" value="FFB62C" />
+    <option name="FILESTATUS_changelistConflict" value="D5756C" />
+    <option name="FILESTATUS_modifiedOutside" value="945EB8" />
+    <option name="NOTIFICATION_BACKGROUND" value="F5E9AB" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="CCE5FF" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="CCE5FF" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="CCE5FF" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="CCE5FF" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="CCE5FF" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="CCE5FF" />
+    <option name="ScrollBar.Mac.thumbColor" value="CCE5FF" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="CCE5FF" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="CCE5FF" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="CCE5FF" />
+    <option name="ScrollBar.Transparent.thumbColor" value="CCE5FF" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="CCE5FF" />
+    <option name="ScrollBar.thumbBorderColor" value="CCE5FF" />
+    <option name="ScrollBar.thumbColor" value="CCE5FF" />
   </colors>
   <attributes>
     <option name="CONSOLE_NORMAL_OUTPUT">

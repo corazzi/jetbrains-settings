@@ -1,5 +1,4 @@
 <scheme name="_@user_Material Lighter" version="142">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-09-24T10:28:53</property>
     <property name="ide">PhpStorm</property>
@@ -8,53 +7,45 @@
     <property name="originalScheme">Material Lighter</property>
     <property name="partialSave">true</property>
   </metaInfo>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ANNOTATIONS_COLOR" value="474747" />
-    <option name="DOCUMENTATION_COLOR" value="f3f5f6" />
-    <option name="FILESTATUS_ADDED" value="c3e887" />
-    <option name="FILESTATUS_COPIED" value="a7700" />
-    <option name="FILESTATUS_DELETED" value="f77669" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="fe4450" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ffffff" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="3edf9" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="3edf9" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="3edf9" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="dbedff" />
-    <option name="FILESTATUS_MERGED" value="36f9f6" />
-    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
-    <option name="FILESTATUS_SWITCHED" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="3edf9" />
-    <option name="FILESTATUS_changelistConflict" value="a148ab" />
-    <option name="FILESTATUS_modifiedOutside" value="a148ab" />
-    <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="80cbc4c0" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="80cbc4c0" />
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="80cbc480" />
-    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="80cbc4" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="80cbc4c0" />
-    <option name="ScrollBar.Mac.thumbColor" value="80cbc4c0" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="80cbc4c0" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="80cbc4c0" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="80cbc480" />
-    <option name="ScrollBar.hoverThumbBorderColor" value="80cbc4" />
-    <option name="ScrollBar.thumbBorderColor" value="80cbc4c0" />
-    <option name="ScrollBar.thumbColor" value="80cbc4c0" />
-    <option name="VCS_ANNOTATIONS_COLOR_3" value="ffffff" />
-    <option name="VCS_ANNOTATIONS_COLOR_5" value="7c4dff" />
+    <option name="DOCUMENTATION_COLOR" value="F3F5F6" />
+    <option name="FILESTATUS_ADDED" value="22863A" />
+    <option name="FILESTATUS_COPIED" value="0A7700" />
+    <option name="FILESTATUS_DELETED" value="6A737D" />
+    <option name="FILESTATUS_HIJACKED" value="6F42C1" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="FE4450" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="032F62" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="D73A49" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="D73A49" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="D73A49" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="DBEDFF" />
+    <option name="FILESTATUS_MERGED" value="6F42C1" />
+    <option name="FILESTATUS_MODIFIED" value="005CC5" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="005CC5" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="005CC5" />
+    <option name="FILESTATUS_OBSOLETE" value="6A737D" />
+    <option name="FILESTATUS_SUPPRESSED" value="6A737D" />
+    <option name="FILESTATUS_SWITCHED" value="E36209" />
+    <option name="FILESTATUS_UNKNOWN" value="E36209" />
+    <option name="FILESTATUS_addedOutside" value="03EDF9" />
+    <option name="FILESTATUS_changelistConflict" value="A148AB" />
+    <option name="FILESTATUS_modifiedOutside" value="A148AB" />
+    <option name="NOTIFICATION_BACKGROUND" value="3D1A11" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="80CBC4C0" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="80CBC4C0" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="80CBC480" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="80CBC4" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="80CBC4C0" />
+    <option name="ScrollBar.Mac.thumbColor" value="80CBC4C0" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="80CBC4C0" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="80CBC4C0" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="80CBC480" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="80CBC4" />
+    <option name="ScrollBar.thumbBorderColor" value="80CBC4C0" />
+    <option name="ScrollBar.thumbColor" value="80CBC4C0" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="FFFFFF" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="7C4DFF" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">

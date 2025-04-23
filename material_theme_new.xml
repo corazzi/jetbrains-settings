@@ -2,8 +2,7 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="c6ff00" />
-        <option name="overrideAccentColor" value="false" />
+        <option name="accentColorHex" value="79cb60" />
       </MTAccentConfigState>
     </option>
     <option name="compactState">
@@ -11,12 +10,6 @@
         <option name="compactHeaderSize" value="26" />
         <option name="headerSize" value="26" />
       </MTCompactConfigState>
-    </option>
-    <option name="contrastState">
-      <MTContrastConfigState>
-        <option name="contrastMode" value="true" />
-        <option name="highContrast" value="true" />
-      </MTContrastConfigState>
     </option>
     <option name="customThemeState">
       <MTCustomThemeConfigState>
@@ -44,6 +37,7 @@
         <option name="overlayOpacity" value="79" />
         <option name="showMoreOverlays" value="true" />
         <option name="useGlobalFont" value="true" />
+        <option name="useMaterialWallpapers" value="true" />
       </MTFeaturesConfigState>
     </option>
     <option name="lightCustomThemeState">
@@ -72,7 +66,7 @@
         <option name="migrated" value="true" />
         <option name="pristineConfig" value="false" />
         <option name="userId" value="-425204e0:16b557704bd:-8000" />
-        <option name="version" value="9.7.0" />
+        <option name="version" value="9.8.0" />
         <option name="wizardShown" value="true" />
       </MTMetadataState>
     </option>
@@ -99,7 +93,7 @@
     </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="SPACE" />
+        <option name="selectedThemeName" value="GITHUB" />
       </MTThemeConfigState>
     </option>
     <option name="titleBarState">

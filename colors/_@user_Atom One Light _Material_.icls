@@ -1,5 +1,4 @@
 <scheme name="_@user_Atom One Light (Material)" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2023-01-04T15:58:42</property>
     <property name="ide">PhpStorm</property>
@@ -8,18 +7,23 @@
     <property name="originalScheme">Atom One Light (Material)</property>
     <property name="partialSave">true</property>
   </metaInfo>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="dbedff" />
-    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_ADDED" value="22863A" />
+    <option name="FILESTATUS_DELETED" value="6A737D" />
+    <option name="FILESTATUS_HIJACKED" value="6F42C1" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="032F62" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="D73A49" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="D73A49" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="D73A49" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="DBEDFF" />
+    <option name="FILESTATUS_MERGED" value="6F42C1" />
+    <option name="FILESTATUS_MODIFIED" value="005CC5" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="005CC5" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="005CC5" />
+    <option name="FILESTATUS_OBSOLETE" value="6A737D" />
+    <option name="FILESTATUS_SUPPRESSED" value="6A737D" />
+    <option name="FILESTATUS_SWITCHED" value="E36209" />
+    <option name="FILESTATUS_UNKNOWN" value="E36209" />
   </colors>
   <attributes>
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">

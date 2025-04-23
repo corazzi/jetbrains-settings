@@ -1,5 +1,4 @@
 <scheme name="_@user_Material Oceanic" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-09-24T10:28:53</property>
     <property name="ide">PhpStorm</property>
@@ -8,47 +7,41 @@
     <property name="originalScheme">Material Oceanic</property>
     <property name="partialSave">true</property>
   </metaInfo>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="DOCUMENTATION_COLOR" value="263238" />
-    <option name="FILESTATUS_ADDED" value="91b859" />
-    <option name="FILESTATUS_HIJACKED" value="ffb62c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_MERGED" value="945eb8" />
-    <option name="FILESTATUS_MODIFIED" value="39adb5" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="39adb5" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="39adb5" />
-    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_SUPPRESSED" value="b0bec5" />
-    <option name="FILESTATUS_SWITCHED" value="945eb8" />
-    <option name="FILESTATUS_addedOutside" value="ffb62c" />
-    <option name="FILESTATUS_changelistConflict" value="d5756c" />
-    <option name="FILESTATUS_modifiedOutside" value="945eb8" />
-    <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="9688c0" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="9688c0" />
+    <option name="FILESTATUS_ADDED" value="49D0C5" />
+    <option name="FILESTATUS_DELETED" value="DE3D3B" />
+    <option name="FILESTATUS_HIJACKED" value="2AA298" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="93A1A1" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="C96765" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="C96765" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="C96765" />
+    <option name="FILESTATUS_MERGED" value="E0AF02" />
+    <option name="FILESTATUS_MODIFIED" value="6FBEF6" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57B6C2" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57B6C2" />
+    <option name="FILESTATUS_OBSOLETE" value="FFCB6B" />
+    <option name="FILESTATUS_SUPPRESSED" value="403F53" />
+    <option name="FILESTATUS_SWITCHED" value="2AA298" />
+    <option name="FILESTATUS_UNKNOWN" value="4876D6" />
+    <option name="FILESTATUS_addedOutside" value="FFB62C" />
+    <option name="FILESTATUS_changelistConflict" value="D5756C" />
+    <option name="FILESTATUS_modifiedOutside" value="945EB8" />
+    <option name="NOTIFICATION_BACKGROUND" value="3D1A11" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="9688C0" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="9688C0" />
     <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="968880" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="968880" />
-    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="9688" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="9688c0" />
-    <option name="ScrollBar.Mac.thumbColor" value="9688c0" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="9688c0" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="9688c0" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="009688" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="9688C0" />
+    <option name="ScrollBar.Mac.thumbColor" value="9688C0" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="9688C0" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="9688C0" />
     <option name="ScrollBar.Transparent.thumbBorderColor" value="968880" />
     <option name="ScrollBar.Transparent.thumbColor" value="968880" />
-    <option name="ScrollBar.hoverThumbBorderColor" value="9688" />
-    <option name="ScrollBar.thumbBorderColor" value="9688c0" />
-    <option name="ScrollBar.thumbColor" value="9688c0" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="009688" />
+    <option name="ScrollBar.thumbBorderColor" value="9688C0" />
+    <option name="ScrollBar.thumbColor" value="9688C0" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -28746,11 +28739,6 @@
       <value>
         <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="NG.EXPRESSIONS">
-      <value>
-        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">

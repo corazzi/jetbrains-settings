@@ -22,18 +22,18 @@
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
-    <option name="DOCUMENTATION_COLOR" value="292d3e" />
-    <option name="FILESTATUS_addedOutside" value="c3e88d" />
-    <option name="FILESTATUS_modifiedOutside" value="82aaff" />
-    <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="ab47bcc0" />
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="ab47bc80" />
-    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="ab47bc" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="ab47bcc0" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="ab47bcc0" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="ab47bc80" />
-    <option name="ScrollBar.hoverThumbBorderColor" value="ab47bc" />
-    <option name="ScrollBar.thumbBorderColor" value="ab47bcc0" />
+    <option name="DOCUMENTATION_COLOR" value="292D3E" />
+    <option name="FILESTATUS_addedOutside" value="C3E88D" />
+    <option name="FILESTATUS_modifiedOutside" value="82AAFF" />
+    <option name="NOTIFICATION_BACKGROUND" value="3D1A11" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="AB47BCC0" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="AB47BC80" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="AB47BC" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="AB47BCC0" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="AB47BCC0" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="AB47BC80" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="AB47BC" />
+    <option name="ScrollBar.thumbBorderColor" value="AB47BCC0" />
   </colors>
   <attributes>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
@@ -71,7 +71,7 @@
         <option name="FOREGROUND" value="cdcd00" />
       </value>
     </option>
-    <option name="CSS.URL" baseAttributes="" />
+    <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="89ddf7" />
@@ -909,11 +909,11 @@
         <option name="BACKGROUND" value="607d8b" />
       </value>
     </option>
-    <option name="PHP_ALIAS_REFERENCE" baseAttributes="" />
-    <option name="PHP_CONSTANT" baseAttributes="" />
-    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="" />
-    <option name="PHP_PARAMETER" baseAttributes="" />
-    <option name="PHP_VAR" baseAttributes="" />
+    <option name="PHP_ALIAS_REFERENCE" baseAttributes="PHP_CLASS" />
+    <option name="PHP_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
+    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
+    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
       <value>
         <option name="FOREGROUND" value="c70267" />
