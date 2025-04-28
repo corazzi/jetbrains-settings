@@ -23,7 +23,7 @@
         },
         {
           "id": "Structure",
-          "order": 2,
+          "order": 3,
           "weight": 0.2502604
         },
         {
@@ -48,7 +48,7 @@
         },
         {
           "id": "SonarLint",
-          "order": 3,
+          "order": 4,
           "anchor": "BOTTOM",
           "isShowStripeButton": false
         },
@@ -85,19 +85,19 @@
         },
         {
           "id": "SQL Formatter",
-          "order": 4,
+          "order": 5,
           "anchor": "RIGHT",
           "isShowStripeButton": false
         },
         {
           "id": "Web Inspector",
-          "order": 4,
+          "order": 6,
           "anchor": "RIGHT",
           "weight": 0.25
         },
         {
           "id": "Laravel Tinker",
-          "order": 4,
+          "order": 7,
           "anchor": "RIGHT",
           "weight": 0.32994792
         }
