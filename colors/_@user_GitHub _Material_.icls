@@ -1,4 +1,5 @@
 <scheme name="_@user_GitHub (Material)" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-09-24T10:28:53</property>
     <property name="ide">PhpStorm</property>
@@ -7,6 +8,16 @@
     <property name="originalScheme">GitHub (Material)</property>
     <property name="partialSave">true</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.4" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="FiraCode Nerd Font Mono" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="&lt;Font missing: DejaVu Sans Mono for Powerline&gt;" />
+    <option name="EDITOR_FONT_SIZE" value="22" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
     <option name="FILESTATUS_addedOutside" value="FFB62C" />
