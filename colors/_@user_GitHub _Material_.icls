@@ -27576,10 +27576,10 @@
         <option name="FOREGROUND" value="d73a49" />
       </value>
     </option>
-    <option name="PHP_ALIAS_REFERENCE" baseAttributes="" />
-    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="" />
-    <option name="PHP_PARAMETER" baseAttributes="" />
-    <option name="PHP_VAR" baseAttributes="" />
+    <option name="PHP_ALIAS_REFERENCE" baseAttributes="PHP_CLASS" />
+    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
+    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PY$DECORATOR">
       <value>
         <option name="FOREGROUND" value="cd3948" />
