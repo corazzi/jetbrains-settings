@@ -18,26 +18,26 @@
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
-    <option name="FILESTATUS_ADDED" value="85e89d" />
-    <option name="FILESTATUS_DELETED" value="959da5" />
-    <option name="FILESTATUS_HIJACKED" value="b392f0" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="959da5" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="dbedff" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f97583" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f97583" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f97583" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="dbedff" />
-    <option name="FILESTATUS_MERGED" value="b392f0" />
-    <option name="FILESTATUS_MODIFIED" value="79b8ff" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="79b8ff" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="79b8ff" />
-    <option name="FILESTATUS_OBSOLETE" value="959da5" />
-    <option name="FILESTATUS_SUPPRESSED" value="959da5" />
-    <option name="FILESTATUS_SWITCHED" value="ffab70" />
-    <option name="FILESTATUS_UNKNOWN" value="ffab70" />
-    <option name="FILESTATUS_addedOutside" value="ffea7f" />
-    <option name="FILESTATUS_changelistConflict" value="f97583" />
-    <option name="FILESTATUS_modifiedOutside" value="b392f0" />
+    <option name="FILESTATUS_ADDED" value="85E89D" />
+    <option name="FILESTATUS_DELETED" value="959DA5" />
+    <option name="FILESTATUS_HIJACKED" value="B392F0" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="959DA5" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="DBEDFF" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="F97583" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="F97583" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="F97583" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="DBEDFF" />
+    <option name="FILESTATUS_MERGED" value="B392F0" />
+    <option name="FILESTATUS_MODIFIED" value="79B8FF" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="79B8FF" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="79B8FF" />
+    <option name="FILESTATUS_OBSOLETE" value="959DA5" />
+    <option name="FILESTATUS_SUPPRESSED" value="959DA5" />
+    <option name="FILESTATUS_SWITCHED" value="FFAB70" />
+    <option name="FILESTATUS_UNKNOWN" value="FFAB70" />
+    <option name="FILESTATUS_addedOutside" value="FFEA7F" />
+    <option name="FILESTATUS_changelistConflict" value="F97583" />
+    <option name="FILESTATUS_modifiedOutside" value="B392F0" />
   </colors>
   <attributes>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE">

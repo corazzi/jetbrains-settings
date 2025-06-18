@@ -2,14 +2,8 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="79cb60" />
+        <option name="accentColorHex" value="2979ff" />
       </MTAccentConfigState>
-    </option>
-    <option name="compactState">
-      <MTCompactConfigState>
-        <option name="compactHeaderSize" value="26" />
-        <option name="headerSize" value="26" />
-      </MTCompactConfigState>
     </option>
     <option name="customThemeState">
       <MTCustomThemeConfigState>
@@ -31,14 +25,6 @@
         <option name="textColorHex" value="90a7b2" />
         <option name="treeColorHex" value="dfebf4" />
       </MTCustomThemeConfigState>
-    </option>
-    <option name="featuresState">
-      <MTFeaturesConfigState>
-        <option name="overlayOpacity" value="79" />
-        <option name="showMoreOverlays" value="true" />
-        <option name="useGlobalFont" value="true" />
-        <option name="useMaterialWallpapers" value="true" />
-      </MTFeaturesConfigState>
     </option>
     <option name="lightCustomThemeState">
       <MTLightCustomThemeConfigState>
@@ -70,45 +56,15 @@
         <option name="wizardShown" value="true" />
       </MTMetadataState>
     </option>
-    <option name="projectTreeState">
-      <MTProjectTreeConfigState>
-        <option name="indicatorStyle" value="Sharp" />
-        <option name="indicatorThickness" value="5" />
-        <option name="treeFont" value="FiraCode Nerd Font Mono" />
-        <option name="treeFontEnabled" value="true" />
-        <option name="treeFontSize" value="16" />
-        <option name="useColoredDirectories" value="true" />
-      </MTProjectTreeConfigState>
-    </option>
-    <option name="tabsState">
-      <MTTabsConfigState>
-        <option name="activeBoldTab" value="true" />
-        <option name="highlightColorEnabled" value="true" />
-        <option name="highlightColorHex" value="031e7d" />
-        <option name="roundedTabs" value="true" />
-        <option name="tabHighlightPosition" value="Bottom" />
-        <option name="tabHighlightPositionName" value="BOTTOM" />
-        <option name="tabsShadow" value="false" />
-      </MTTabsConfigState>
-    </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="GITHUB" />
+        <option name="selectedThemeName" value="ONE_DARK" />
       </MTThemeConfigState>
     </option>
     <option name="titleBarState">
       <MTTitleBarConfigState>
         <option name="useColoredTitleBar" value="false" />
       </MTTitleBarConfigState>
-    </option>
-    <option name="uiComponentsState">
-      <MTUiComponentsConfigState>
-        <option name="borderedButtons" value="true" />
-        <option name="borderless" value="true" />
-        <option name="invertedCompletionSelection" value="true" />
-        <option name="roundNotifications" value="true" />
-        <option name="useShadows" value="true" />
-      </MTUiComponentsConfigState>
     </option>
   </component>
 </application>

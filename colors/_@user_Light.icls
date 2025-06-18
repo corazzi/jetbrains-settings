@@ -9,25 +9,25 @@
     <property name="pluginId">com.intellij</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_ADDED" value="50a14e" />
-    <option name="FILESTATUS_DELETED" value="a0a1a7" />
-    <option name="FILESTATUS_HIJACKED" value="a626a4" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="a0a1a7" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="dbedff" />
-    <option name="FILESTATUS_MERGED" value="4078f2" />
-    <option name="FILESTATUS_MODIFIED" value="986801" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
-    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_SUPPRESSED" value="383a42" />
-    <option name="FILESTATUS_SWITCHED" value="4078f2" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="57b6c2" />
-    <option name="FILESTATUS_changelistConflict" value="ff6347" />
-    <option name="FILESTATUS_modifiedOutside" value="4078f2" />
+    <option name="FILESTATUS_ADDED" value="98C379" />
+    <option name="FILESTATUS_DELETED" value="59626F" />
+    <option name="FILESTATUS_HIJACKED" value="C679DD" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="A0A1A7" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9DA5B4" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="FF6347" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="FF6347" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="FF6347" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="DBEDFF" />
+    <option name="FILESTATUS_MERGED" value="61AEEF" />
+    <option name="FILESTATUS_MODIFIED" value="E5C17C" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57B6C2" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57B6C2" />
+    <option name="FILESTATUS_OBSOLETE" value="FFCB6B" />
+    <option name="FILESTATUS_SUPPRESSED" value="ABB2BF" />
+    <option name="FILESTATUS_SWITCHED" value="61AEEF" />
+    <option name="FILESTATUS_UNKNOWN" value="F77669" />
+    <option name="FILESTATUS_addedOutside" value="57B6C2" />
+    <option name="FILESTATUS_changelistConflict" value="FF6347" />
+    <option name="FILESTATUS_modifiedOutside" value="4078F2" />
   </colors>
 </scheme>
