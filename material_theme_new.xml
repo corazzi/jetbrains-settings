@@ -1,8 +1,14 @@
 <application>
   <component name="MaterialThemeNewConfig">
+    <option name="accentModeState">
+      <MTAccentModeConfigState>
+        <option name="accentMode" value="true" />
+      </MTAccentModeConfigState>
+    </option>
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="2979ff" />
+        <option name="accentColorHex" value="676e95" />
+        <option name="overrideAccentColor" value="false" />
       </MTAccentConfigState>
     </option>
     <option name="customThemeState">
