@@ -1,6 +1,6 @@
 <application>
   <component name="GeneralSettings">
-    <option name="showTipsOnStartup" value="false" />
+    <option name="showTipsOnStartup" value="true" />
     <option name="reopenLastProject" value="false" />
     <option name="autoSaveIfInactive" value="true" />
     <option name="confirmOpenNewProject2" value="0" />
@@ -21,10 +21,6 @@
     <entry key="debugger.new.tool.window.layout" value="true" source="SYSTEM" />
     <entry key="ide.mac.transparentTitleBarAppearance" value="true" source="SYSTEM" />
     <entry key="terminal.new.ui" value="true" source="SYSTEM" />
-    <entry key="ide.balloon.shadow.size" value="0" source="SYSTEM" />
-    <entry key="ide.editor.tab.selection.animation" value="true" source="SYSTEM" />
-    <entry key="ide.new.editor.tabs.vertical.borders" value="true" source="SYSTEM" />
-    <entry key="ide.animate.toolwindows" value="true" source="SYSTEM" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
