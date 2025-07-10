@@ -8,6 +8,16 @@
     <property name="originalScheme">GitHub Dark (Material)</property>
     <property name="partialSave">true</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.4" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="FiraCode Nerd Font Mono" />
+    <option name="EDITOR_FONT_SIZE" value="22" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="&lt;Font missing: DejaVu Sans Mono for Powerline&gt;" />
+    <option name="EDITOR_FONT_SIZE" value="22" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -16,7 +26,6 @@
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="C3E887" />
