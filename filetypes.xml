@@ -4,6 +4,7 @@
       <mapping pattern="main" type="AUTO_DETECTED" />
       <mapping pattern="EnableNewContentBulletins" type="AUTO_DETECTED" />
       <mapping pattern="00_artisan_scheduler" type="AUTO_DETECTED" />
+      <mapping pattern="2025-08-28-fix-filament-resource-list-locale-switcher" type="AUTO_DETECTED" />
       <mapping pattern="retailer-sign-in" type="AUTO_DETECTED" />
       <mapping pattern="FeaturedProductCardInformation" type="AUTO_DETECTED" />
       <mapping pattern="*.css.hogan.liquid" type="CSS" />
