@@ -36,7 +36,7 @@
     <mask>*.blade.php</mask>
     <mask>*.tf</mask>
     <mask>*.vue</mask>
-    <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
