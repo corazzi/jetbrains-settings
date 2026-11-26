@@ -21,9 +21,8 @@
     <entry key="debugger.new.tool.window.layout" value="true" source="SYSTEM" />
     <entry key="ide.mac.transparentTitleBarAppearance" value="true" source="SYSTEM" />
     <entry key="terminal.new.ui" value="true" source="SYSTEM" />
-    <entry key="llm.chat.agent.codex.install.codex.version" value="0.137.0" source="MANAGER" />
-    <entry key="llm.chat.agent.codex.install.acp.server.version" value="0.0.46" source="MANAGER" />
     <entry key="switched.from.classic.to.islands" value="false" source="SYSTEM" />
+    <entry key="trace.state.event.service.url" value="https://api.jetbrains.cloud/trace-status" source="MANAGER" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

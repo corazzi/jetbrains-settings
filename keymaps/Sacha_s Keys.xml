@@ -8,6 +8,7 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl meta t" />
   </action>
@@ -53,6 +54,7 @@
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
+  <action id="RunAnything" />
   <action id="SaveAll" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />

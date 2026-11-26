@@ -49,6 +49,7 @@
       <removed_mapping ext="pks" approved="true" type="SQL" />
       <removed_mapping ext="prc" approved="true" type="SQL" />
       <removed_mapping ext="sql" approved="true" type="SQL" />
+      <removed_mapping ext="sqlite" approved="true" type="SQLite Database" />
       <removed_mapping ext="tpb" approved="true" type="SQL" />
       <removed_mapping ext="tps" approved="true" type="SQL" />
       <removed_mapping ext="trg" approved="true" type="SQL" />
